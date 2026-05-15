@@ -61,27 +61,26 @@ Evaluation Metrics
 
 ### RMSE Comparison
 
-<img src="images/rmse_european_call.png" width="600">
+(images/RMSE_eu.png)
 
-<img src="images/rmse_digital_call.png" width="600">
+(images/RMSE_dig.png)
 
-<img src="images/rmse_asian_call.png" width="600">
+(images/RMSE_as.png)
 
 ### Absolute Bias Comparison
 
-<img src="images/bias_european_call.png" width="600">
+(images/ab_eu.png)
 
-<img src="images/bias_digital_call.png" width="600">
+(images/ab_dig.png)
 
-<img src="images/bias_asian_call.png" width="600">
+(images/ab_as.png)
 
 ### Variance Reduction
 
-<img src="images/variance_reduction_factor.png" width="600">
+(images/vrf.png)
 
-### Digital Call Diagnostics
-
-<img src="images/digital_call_diagnostics.png" width="900">
+### Reduction and Runtime Comparison
+(images/all.png)
 
 ## Skills Demonstrated
 
