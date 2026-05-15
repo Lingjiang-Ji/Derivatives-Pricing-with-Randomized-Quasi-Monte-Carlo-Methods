@@ -80,7 +80,9 @@ Evaluation Metrics
 ![vrf](images/vrf.png)
 
 ### Reduction and Runtime Comparison
-![all](images/all.png)
+![rt1](images/rt_eu.png)
+![rt2](images/rt_dig.png)
+![rt3](images/rt_as.png)
 
 ## Skills Demonstrated
 
