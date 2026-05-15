@@ -61,26 +61,26 @@ Evaluation Metrics
 
 ### RMSE Comparison
 
-(images/RMSE_eu.png)
+![rmse_eu](images/RMSE_eu.png)
 
-(images/RMSE_dig.png)
+![rmse_dig](images/RMSE_dig.png)
 
-(images/RMSE_as.png)
+![rmse_as](images/RMSE_as.png)
 
 ### Absolute Bias Comparison
 
-(images/ab_eu.png)
+![ab_eu](images/ab_eu.png)
 
-(images/ab_dig.png)
+![ab_dig](images/ab_dig.png)
 
-(images/ab_as.png)
+![ab_as](images/ab_as.png)
 
 ### Variance Reduction
 
-(images/vrf.png)
+![vrf](images/vrf.png)
 
 ### Reduction and Runtime Comparison
-(images/all.png)
+![all](images/all.png)
 
 ## Skills Demonstrated
 
